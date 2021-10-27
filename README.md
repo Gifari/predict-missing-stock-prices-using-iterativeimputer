@@ -9,7 +9,8 @@ This notebook can be viewed and edited on Kaggle by [clicking here](https://www.
 
 Follow me on <b>[GitHub](https://github.com/Gifari)</b> and <b>[Kaggle](https://www.kaggle.com/gifarihoque)</b> where I'll be posting more notebooks and tutorials from time to time.<br>
 Feel free to connect with me on <b>[LinkedIn](https://www.linkedin.com/in/gifari/)</b>.<br>
-Also, please do follow me on <b>[Medium](https://gifari.medium.com/)</b> for more tutorials and guides!<br>
+If you think I deserve a coffee for the work I do, please do <b>[buy me a coffee](https://www.buymeacoffee.com/gifari)</b>!<br>
+Also, please follow me on <b>[Medium](https://gifari.medium.com/)</b> for more tutorials and guides.<br>
 
 <b>[Click here to check out my online portfolio!](https://gifari.github.io/)</b><br>
 
